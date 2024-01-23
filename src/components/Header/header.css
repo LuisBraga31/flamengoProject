@@ -1,0 +1,35 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 10%;
+    position: fixed;
+    width: 100%;
+    font-size: 1.3rem;
+    color: white;
+    transition: 0.3s all linear;
+    z-index: 1000;
+}
+
+.header-active {
+    background-color: #111116;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.navbar a {
+    font-size: 1.2rem;
+    line-height: 1;
+    text-decoration: none;
+    color: white;
+    transition: 0.3s all linear;
+}
+
+.navbar a:hover {
+    color: red;
+}

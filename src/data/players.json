@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "name": "Rossi",
+        "number": "01",
+        "age": 28,
+        "nationality": "Argentino",
+        "position": "Goleiro",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1688672634.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Gabigol",
+        "number": "10",
+        "age": 27,
+        "nationality": "Brasileiro",
+        "position": "Atacante",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1681792471.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pedro",
+        "number": "09",
+        "age": 26,
+        "nationality": "Brasileiro",
+        "position": "Atacante",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1681792684.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Arrascaeta",
+        "number": "14",
+        "age": 29,
+        "nationality": "Uruguaio",
+        "position": "Meia",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/6/1681793931.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Léo Pereira",
+        "number": "04",
+        "age": 27,
+        "nationality": "Brasileiro",
+        "position": "Defensor",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/2/1681792369.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Bruno Henrique",
+        "number": "27",
+        "age": 33,
+        "nationality": "Brasileiro",
+        "position": "Atacante",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1681793086.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Erick Pulgar",
+        "number": "05",
+        "age": 30,
+        "nationality": "Chileno",
+        "position": "Meia",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/5/1681793372.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Ayrton Lucas",
+        "number": "06",
+        "age": 26,
+        "nationality": "Brasileiro",
+        "position": "Defensor",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/4/1681792936.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Everton Cebolinha",
+        "number": "11",
+        "age": 27,
+        "nationality": "Brasileiro",
+        "position": "Atacante",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1681792900.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Gerson",
+        "number": "20",
+        "age": 26,
+        "nationality": "Brasileiro",
+        "position": "Meia",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/5/1681792999.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Varela",
+        "number": "02",
+        "age": 30,
+        "nationality": "Uruguaio",
+        "position": "Defensor",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/3/1681793440.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Fabricio Bruno",
+        "number": "15",
+        "age": 27,
+        "nationality": "Brasileiro",
+        "position": "Defensor",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/2/1681793171.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Matheus Cunha",
+        "number": "25",
+        "age": 22,
+        "nationality": "Brasileiro",
+        "position": "Goleiro",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1681793679.jpg"
+    }
+
+]
