@@ -5,6 +5,11 @@
     gap: 20px;
 }
 
+.sectioncard > h2 {
+    padding-left: 5%;
+    padding-bottom: 20px;
+}
+
 .card-busca {
     margin: 0 10%;
     display: flex;

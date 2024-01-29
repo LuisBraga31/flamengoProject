@@ -2,6 +2,7 @@ import Header from "./components/Header"
 import Home from "./components/Home"
 import SectionCard from "./components/Cards/SectionCard"
 import Footer from "./components/Footer"
+import Titles from "./components/Titles"
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Header/>
         <Home/>
         <SectionCard/>
+        <Titles/>
       <Footer/> 
            
     </>

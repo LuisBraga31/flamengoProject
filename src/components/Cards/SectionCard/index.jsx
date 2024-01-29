@@ -5,7 +5,7 @@ import CardItem from '../CardItem'
 import './sectioncard.css'
 
 export default function SectionCard() {
-
+    
     //* Mecaniso de Busca
 
     const [search, setSearch] =useState("");
@@ -36,13 +36,13 @@ export default function SectionCard() {
 
     useEffect(() => {
         getNacionalidades()
-        console.log(nations)
     }, [])
     
     
     return (
         <section id="players" className="sectioncard">
-
+            <h2> Jogadores</h2>
+            
             <div className="card-busca">
                 <h2> Buscar Jogador </h2>
                 <input type="text" 
@@ -87,16 +87,15 @@ export default function SectionCard() {
 
             <div className="card-container">
                 {players
-                
                 .filter((player) => filterNation === "All" ? true : filterNation === player.nationality ? true : false)
                 .filter((player) => filterPosition === "All" ? true : filterPosition === player.position ? true : false)
-                .filter((player) => player.name.toLowerCase().includes(search.toLowerCase()))
-                
+                .filter((player) => player.name.toLowerCase().includes(search.toLowerCase())) 
                 .sort((a, b) => sort === "Asc" ? a.number.localeCompare(b.number) : b.number.localeCompare(a.number))
-
                 .map((item, index) => (
                     <CardItem  key={index} {... item}/>
                 ))}
+
+
 
                 {players
                 .filter((player) => filterNation === "All" ? true : filterNation === player.nationality ? true : false)
@@ -105,7 +104,7 @@ export default function SectionCard() {
                 .sort((a, b) => sort === "Asc" ? a.number.localeCompare(b.number) : b.number.localeCompare(a.number))
                 .map((item, index) => (
                     <CardItem  key={index} {... item}/>
-                )).length === 0 && <p className="aviso"> Não foram encontrados jogadores. </p>}
+                )).length === 0 && <p className="aviso"> Não foram encontrados jogadores. </p> }
 
             </div>
             

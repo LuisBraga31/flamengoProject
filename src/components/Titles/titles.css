@@ -1,0 +1,42 @@
+.sectiontitle {
+    padding: 2rem 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.sectiontitle > h2 {
+    padding-left: 5%;
+    padding-bottom: 20px;
+}
+
+.titles-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.titleCard {
+    padding: 15px;
+    width: 210px;
+    height: 310px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.titleCard img {
+    width: 200px;
+    height: 200px;
+}
+
+.titleCard span {
+    height: 10px;
+    text-align: center;
+    padding: 0 15px;
+}

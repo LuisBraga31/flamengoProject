@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Mundial de Clubes",
+        "image": "https://cdn.dooca.store/791/products/3_620x620+fill_ffffff.jpg?v=1621382737&webp=0",
+        "years": "1x Campeão"
+    },
+    {
+        "id": 2,
+        "name": "Libertadores",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/166877-1000-1000/taca-1-PhotoRoom.png?v=638174193274430000",
+        "years": "3x Campeão"
+    },
+    {
+        "id": 3,
+        "name": "Brasileirão",
+        "image": "https://live.staticflickr.com/65535/51717138042_d85c0afb28_b.jpg",
+        "years": "8x Campeão"
+    },
+    {
+        "id": 4,
+        "name": "Copa do Brasil",
+        "image": "https://app.globoesporte.globo.com/futebol/copa-do-brasil/uma-taca-dificil-de-levar-pra-casa/assets/images/taca-360-768/taca_360_01.jpg",
+        "years": "4x Campeão"
+    },
+    {
+        "id": 5,
+        "name": "Carioca",
+        "image": "https://1.bp.blogspot.com/-V2pKmMJA4RY/XmGGInB2-QI/AAAAAAAAqug/HIQuI1PEDOgmfUWEg9G9et9dCx_KJ38wwCLcBGAsYHQ/s640/ta%25C3%25A7a%2Bdo%2Bcampeonato%2Bcarioca%2Bde%2Bfutebol%2Bferj.jpg",
+        "years": "37x Campeão" 
+    }
+]

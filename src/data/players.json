@@ -6,7 +6,8 @@
         "age": 28,
         "nationality": "Argentino",
         "position": "Goleiro",
-        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1688672634.jpeg"
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1688672634.jpeg",
+        "teams": [{"id": 1, "team": "Flamengo"}, {"id": 2, "team": "Boca Juniors"}]
     },
     {
         "id": 2,
@@ -115,6 +116,24 @@
         "nationality": "Brasileiro",
         "position": "Goleiro",
         "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1681793679.jpg"
+    },
+    {
+        "id": 14,
+        "name": "David Luiz",
+        "number": "23",
+        "age": 36,
+        "nationality": "Brasileiro",
+        "position": "Defensor",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/2/1681792790.jpg"
+    },
+        {
+        "id": 15,
+        "name": "Victor Hugo",
+        "number": "29",
+        "age": 19,
+        "nationality": "Brasileiro",
+        "position": "Meia",
+        "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/6/1681793516.jpg"
     }
 
 ]

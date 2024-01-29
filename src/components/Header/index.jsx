@@ -32,6 +32,7 @@ export default function Header() {
             <nav className="navbar">
                 <a href="#"> Home </a>
                 <a href="#players"> Jogadores </a>
+                <a href="#titles"> Títulos </a>
             </nav>
             
         </header>
